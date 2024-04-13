@@ -16,3 +16,16 @@
 3. Write the hidden message.
 4. Click on Encrypt.
 5. Your image will be encrypted with the hidden message. 
+
+## How to Decrypt ❔
+
+1. Run the steganography application.
+2. Select the image from which you want to retrive the message.
+3. Click Decrypt.
+4. Your hidden message will be displayed.
+
+## Technology used :
+
+Python3
+Python Tinkter
+Python
