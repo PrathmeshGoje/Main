@@ -26,8 +26,8 @@
 
 ## Technology used :
 
->Python3
->Python Tinkter
->Python
+>Python3 |
+>Python Tinkter |
+>Python |
 
 
